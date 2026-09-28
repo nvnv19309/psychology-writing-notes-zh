@@ -1,0 +1,4 @@
+霞鹜文楷 GB Regular v1.522
+来源：https://github.com/lxgw/LxgwWenkaiGB/releases/tag/v1.522
+此站的 WOFF2 文件由官方 Regular 字体按本站页面用字取子集，仅用于网页显示。
+许可见 OFL-LXGW-WenKai-GB.txt。
